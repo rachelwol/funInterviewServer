@@ -54,6 +54,17 @@
       ],
       "correctAnswer": 2,
       "explain": ""
+    },
+    {
+      "question": "באיזה תג HTML משתמשים להגדרת גיליון CSS פנימי?",
+      "options": [
+        "class",
+        "style",
+        "styles",
+        "font"
+      ],
+      "correctAnswer": 1,
+      "explain": ""
     }
   ]
 }
