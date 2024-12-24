@@ -8,27 +8,27 @@
         "Colorful Style Sheets",
         "Computer Style Sheets"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explain": ""
     },
     {
       "question": "מהו ה-HTML הנכון להתייחסות לגיליון CSS חיצוני?\n",
       "options": [
-        " <stylesheet>mystyle.css</stylesheet>",
-        " <link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+        " &lt;stylesheet&gt;mystyle.css&lt;/stylesheet&gt;",
+        " &lt;link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\"&gt;",
         "אף אחת מהתשובות לא נכונה",
-        " <style src=\"mystyle.css\">"
+        " &lt;style src=\"mystyle.css\"&gt;"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explain": ""
     },
     {
       "question": "היכן במסמך HTML המקום הנכון להתייחס לגיליון CSS חיצוני?\n",
       "options": [
         "בסוף המסמך",
-        "בתגית <head>",
-        "בתגית <html>",
-        "בתגית <body>"
+        "בתגית &lt;head&gt;",
+        "בתגית &lt;html&gt;",
+        "בתגית &lt;body&gt;"
       ],
       "correctAnswer": 1,
       "explain": ""
@@ -36,10 +36,10 @@
     {
       "question": "באיזה תג HTML משתמשים להגדרת גיליון CSS פנימי?",
       "options": [
-        "<script>",
-        "<css>",
-        "<head>",
-        "<style>"
+        "&lt;script&gt;",
+        "&lt;css&gt;",
+        "&lt;head&gt;",
+        "&lt;style&gt;"
       ],
       "correctAnswer": 3,
       "explain": ""
@@ -114,8 +114,8 @@
       "question": "מהו תחביר ה-CSS הנכון להפיכת כל האלמנטים <p> למודגשים?",
       "options": [
         " p {font-weight:bold;}",
-        " <p style=\"text-size:bold;\">",
-        " <p style=\"font-size:bold;\">",
+        " &lt;p style=\"text-size:bold;\"&gt;",
+        " &lt;p style=\"font-size:bold;\"&gt;",
         " p {text-size:bold;}"
       ],
       "correctAnswer": 0,

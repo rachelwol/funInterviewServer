@@ -4,7 +4,7 @@
       "question": "מהו סימון HTML נכון עבור הצהרת סוג המסמך?",
       "options": [
         "DOCTYPE html;",
-        "<!DOCTYPE html>",
+        "&lt;!DOCTYPE html&gt;",
         "--DOCTYPE html;",
         "כל התשובות נכונות"
       ],
@@ -25,7 +25,7 @@
     {
       "question": "מה מהדברים הבאים זה סינטקס תקין של HTML?",
       "options": [
-        "<h1>Welcome</h1>",
+        "&lt;h1&gt;Welcome&lt;/h1&gt;",
         "{{h1}}Welcome{{:h1}}",
         "{h1:Welcome}",
         "אין משהו מסוים, ניתן להשתמש בכל הסגנונות"
@@ -47,10 +47,10 @@
     {
       "question": "איזה מהבאים הוא תחביר נכון לשימוש בתכונת HTML?",
       "options": [
-        "<img src:-img_girl.jpg'>",
-        "<img src('img_girl.jpg')>",
-        "<img src='img_girl.jpg'>",
-        "<img src:'img_girl.jpg'>"
+        "&lt;img src:-img_girl.jpg'&gt;",
+        "&lt;img src('img_girl.jpg')&gt;",
+        "&lt;img src='img_girl.jpg'&gt;",
+        "&lt;img src:'img_girl.jpg'&gt;"
       ],
       "correctAnswer": 2,
       "explain": ""
