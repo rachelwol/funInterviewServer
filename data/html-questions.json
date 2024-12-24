@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "מהו סימון HTML נכון עבור הצהרת סוג המסמך?",
+      "options": [
+        "DOCTYPE html;",
+        "<!DOCTYPE html>",
+        "--DOCTYPE html;",
+        "כל התשובות נכונות"
+      ],
+      "correctAnswer": 1,
+      "explain": ""
+    },
+    {
+      "question": "מה הם ראשי התיבות של HTML?",
+      "options": [
+        "Hot Typing Markup Language",
+        "Home Typing Modern Language",
+        "Hyper Text Markup Language",
+        "Home Testing Mixed Language"
+      ],
+      "correctAnswer": 2,
+      "explain": " "
+    },
+    {
+      "question": "מה מהדברים הבאים זה סינטקס תקין של HTML?",
+      "options": [
+        "<h1>Welcome</h1>",
+        "{{h1}}Welcome{{:h1}}",
+        "{h1:Welcome}",
+        "אין משהו מסוים, ניתן להשתמש בכל הסגנונות"
+      ],
+      "correctAnswer": 0,
+      "explain": ""
+    },
+    {
+      "question": "מי המציא את HTML?",
+      "options": [
+        "michael weiss",
+        "Brendan Eich",
+        "Guido van Rossum",
+        "Tim Berners-Lee"
+      ],
+      "correctAnswer": 3,
+      "explain": ""
+    },
+    {
+      "question": "איזה מהבאים הוא תחביר נכון לשימוש בתכונת HTML?",
+      "options": [
+        "<img src:-img_girl.jpg'>",
+        "<img src('img_girl.jpg')>",
+        "<img src='img_girl.jpg'>",
+        "<img src:'img_girl.jpg'>"
+      ],
+      "correctAnswer": 2,
+      "explain": ""
+    }
+  ]
+}

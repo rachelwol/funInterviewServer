@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "מהם ראשי התיבות של CSS?",
+      "options": [
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets",
+        "Computer Style Sheets"
+      ],
+      "correctAnswer": 2,
+      "explain": ""
+    },
+    {
+      "question": "מהו ה-HTML הנכון להתייחסות לגיליון CSS חיצוני?\n",
+      "options": [
+        " <stylesheet>mystyle.css</stylesheet>",
+        " <link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+        "אף אחת מהתשובות לא נכונה",
+        " <style src=\"mystyle.css\">"
+      ],
+      "correctAnswer": 0,
+      "explain": ""
+    },
+    {
+      "question": "היכן במסמך HTML המקום הנכון להתייחס לגיליון CSS חיצוני?\n",
+      "options": [
+        "בסוף המסמך",
+        "בתגית <head>",
+        "בתגית <html>",
+        "בתגית <body>"
+      ],
+      "correctAnswer": 1,
+      "explain": ""
+    },
+    {
+      "question": "באיזה תג HTML משתמשים להגדרת גיליון CSS פנימי?",
+      "options": [
+        "<script>",
+        "<css>",
+        "<head>",
+        "<style>"
+      ],
+      "correctAnswer": 3,
+      "explain": ""
+    },
+    {
+      "question": "מה מבין הדברים הבאים הוא סינטקס תקין של CSS?",
+      "options": [
+        " {body:color=black;}",
+        " {body;color:black;}",
+        " body {color: black;}",
+        " body:color=black;"
+      ],
+      "correctAnswer": 2,
+      "explain": ""
+    },
+    {
+      "question": "איך מכניסים הערה לקובץ CSS?\n",
+      "options": [
+        "//...//",
+        "/*...*/",
+        "'...",
+        "//..."
+      ],
+      "correctAnswer": 1,
+      "explain": ""
+    },
+    {
+      "question": "באיזה תכונה משתמשים כדי לשנות את צבע הרקע?",
+      "options": [
+        "col",
+        "color",
+        "bkcolor",
+        "background-color"
+      ],
+      "correctAnswer": 3,
+      "explain": ""
+    },
+    {
+      "question": "איך מוסיפים צבע רקע לכל האלמנטים <h1>?",
+      "options": [
+        "all.h1 {background-color:#FFFFFF;}",
+        " h1 {background-color:#FFFFFF;}",
+        " h1.all {background-color:#FFFFFF;}",
+        " h1.{background-color:#FFFFFF;}"
+      ],
+      "correctAnswer": 1,
+      "explain": ""
+    },
+    {
+      "question": "באיזה מאפיין CSS נעשה שימוש כדי לשנות את צבע הטקסט של אלמנט?",
+      "options": [
+        "color",
+        "tcolor",
+        "background-color",
+        "col"
+      ],
+      "correctAnswer": 0,
+      "explain": ""
+    },
+    {
+      "question": "איזה מאפיין CSS שולט בגודל הטקסט?",
+      "options": [
+        "font-style",
+        "text-style",
+        "font-size",
+        "text-size"
+      ],
+      "correctAnswer": 2,
+      "explain": ""
+    },
+    {
+      "question": "מהו תחביר ה-CSS הנכון להפיכת כל האלמנטים <p> למודגשים?",
+      "options": [
+        " p {font-weight:bold;}",
+        " <p style=\"text-size:bold;\">",
+        " <p style=\"font-size:bold;\">",
+        " p {text-size:bold;}"
+      ],
+      "correctAnswer": 0,
+      "explain": ""
+    },
+    {
+      "question": "איך אתה מציג hyperlinks ללא קו תחתון?\n",
+      "options": [
+        " a {underline:none;}",
+        " a {text-decoration:none;}",
+        " a {text-decoration:no-underline;}",
+        " a {decoration:no-underline;}"
+      ],
+      "correctAnswer": 1,
+      "explain": ""
+    }
+  ]
+}
